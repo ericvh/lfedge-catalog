@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+annotations:
+  artifacthub.io/changes: |
+    - Fix template
+    - Add annotations
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/maintainers: |
+    - name: Eric Van Hensbergen
+      email: ericvh@gmail.com
+  artifacthub.io/prerelease: "false"
+  artifacthub.io/signKey: |-
+    fingerprint: 9696F0D196A59098A4CAD15188FFD5FB4A5FFF98
+    url: https://keybase.io/ericvh/pgp_keys.asc
+apiVersion: v2
+appVersion: 13.2.11
+dependencies:
+- - name: nginx
+  repository: https://charts.bitnami.com/bitnami/nginx
+  version: 13.2.11
+description: A Helm chart for Kubernetes
+home: https://www.lfedge.org/
+icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+keywords:
+- - test
+name: hello3
+sources:
+- - https://github.com/ericvh/lfedge-catalog-proposal
+type: application
+version: 0.1.0
+
+...
+files:
+  hello3-0.1.0.tgz: sha256:39b5175af2ef47fd996aeb8070f337a09ace1e2e2bb9d9bc606829766a4fd490
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJjVZsKCRCI/9X7Sl//mAAA4XcQACZHd2G15RVtywinKZW3dobM
+AxSbChcN9jAjh+7D0rV4uSlxtCZopGEfaRFD1tseKIDEqjIpCfWi9tZI69ZT56td
+3eiHlsma8LEJTS1gaxUj1JXIGNxuVjl98Xkinnc1XAQ2qZeUPOMGeahgnufzMGSy
+dwMzkftUbCuS/RISMc3+p62YOgd7jZgHfVwfl10zFzbRSL6VwYTSHX6grXTQRfj9
+E7vjRN+Lh4G4dg3/BHrkvqg5PNbV61IKzGCSaWmK48OUseqCIZyF76Sjqp80pj98
+s4zkw1ofabcOWbsY0Ws+qSoo4GNqDf9v9J7FxvZsZJ6O7SIh0RTI8Tmb5C6mSFDl
+zslUq/+wv6tau2yYqftLPI+Qw4nWN3x6MDGx0JQ9iycGqRqaJje6ej0g8y7MKhQd
+fkrMo8p5QrjVRdj6MWWpwgEOYAuvIGEpSD5QCl3MCGcDSwtMEf9qF2TaFVtERYWT
+vUlGZocwFGO5Ro/SZF2dswRxuq9TvfElpi2kWE1+A7kwJre31DOwvMLF3w7UDgT/
+nTfoa9Fl36rPqTo+XIqCpkprynxOEMY99niZBGvOIPrz/nP4j1Gtw+yB6Reex0Cs
+6MUqJcWkYrlUuFufb/AHfg57O4nE/eNUoJBnMjOv6QxbsZL2NngJBjEfBdDbRe6o
+RQAPfwe1RYndaebz8mqe
+=+VlN
+-----END PGP SIGNATURE-----

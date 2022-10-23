@@ -1,0 +1,33 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+dependencies:
+- - name: nginx
+  repository: https://charts.bitnami.com/bitnami/nginx
+  version: 13.2.11
+description: A Helm chart for Kubernetes
+name: hello2
+type: application
+version: 0.1.0
+
+...
+files:
+  hello2-0.1.0.tgz: sha256:7886e56fc5599ae170cd02bbac31418b734efd00984faec679521a6ce73a050a
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJjVZu+CRCI/9X7Sl//mAAAY3wQAKdpT8Lh21x+ba0GG0si4kuT
+h6XPfWbar5sRhgsSIsL+em/XBtWIFctBF/NfhH2DYazyzXteUPCg4YSlR+0VyaX9
+muejPCjQBgErRK5Znh9E+PWZUUJjaQfkwj+HuOPRUsULw2ZXixBHtOEVfby3sLT5
+ZmlbmqEzZztkdOoPexHnXpNwra3bPlgoVfZJmOxBFlIaxxCvvhRQD3ne9t6AM/nr
+2we+RGrThbTrcFQaENacrYniHBNidJfQ66RQr/XJMiJr3LUP8UyZbUbE/iJHw0mR
+1oUnqnAcvgx2RKQRXCbHgA3pwUwg34Wschdu+G6vge5oPhzuCoLZSp2+0Ul7Nqby
+TOQANyMk+lwc984mTClxJrUX/NSka1jWIg1DpRZmPJ+hhsJMTYrMyonrPSH8kpX2
+mfQeoNjJIsocsX+QYrHsvkt6tgbGgA8BOu7P0oYe4zMvxFTQIZnxfX7FS/Ha5rM/
+igPv/7nQlK4s+2ldJPXj/k+smTIxoHEHTENEtpBLVZaDqRI2UfkYwRyVotBDaYB1
+qmi1q8upGXp1JmcSpOfjLDl/37IEIuZ4rB7EcRGI41Iis5kuapVMq6OTCdfEWWJX
+D9Umo6xWka1E7C/tF/Hr/5euHIGqwiJ387Y9ydc4eOj5NLXSxWmdTgHtJBj06HEU
+A42k+POr0+ZKKeTTXI/b
+=zK/O
+-----END PGP SIGNATURE-----
