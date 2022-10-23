@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+annotations:
+  artifacthub.io/changes: |
+    - Fix template
+    - Add annotations
+  artifacthub.io/license: Apache-2.0
+  artifacthub.io/maintainers: |
+    - name: Eric Van Hensbergen
+      email: ericvh@gmail.com
+  artifacthub.io/prerelease: "false"
+  artifacthub.io/signKey: |
+    fingerprint: 9696F0D196A59098A4CAD15188FFD5FB4A5FFF98
+    url: https://keybase.io/ericvh/pgp_keys.asc
+apiVersion: v2
+appVersion: 1.16.0
+description: LF Edge Hello World Example
+home: https://www.lfedge.org/
+icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+keywords:
+- - test
+name: hello
+sources:
+- - https://github.com/ericvh/lfedge-test
+type: application
+version: 0.1.3
+
+...
+files:
+  hello-0.1.3.tgz: sha256:7fd9695c027dc3c860bbf09ccfe415fa2451c202110afce0fdccb2fc4bf4dfbf
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJjTWXmCRCI/9X7Sl//mAAAfykQADUnQz41sWJ7+s4M+UaTDf00
+9hiUi3pOeQcydFBEyc7NOOt1lhigtw9brmvD4NPVLroWXrqMS2/rwaC0lB9rVx6R
+yhpGpi9Ae06v245mj7bMP9ASKFLTM9jVfs6f5dJmiydKDb2lGx+GCBBoSn09Oa2C
+Dtlbuv+6d+zaBFxoSwiQxN4ZmXptkSBDHdCUlzIPT9jQ+ipAHGnrYYDrw0g3oMQH
+1csV3BGvl8YzDA9VRfUIk/HyopdES8MK5aBZjv9Meq87HCjbANCd7245EgJGbdq/
+r4WLU0YmzQQ0+ryVoZSbktj6wMot1uYqZ2W7VwThZ8TExogNeag9fbc1qNbBqI+4
+Gzbqy2iX/cfEkStWkxK57PtyWyXPFzIgS0e9BX7Cs/5jEwkO0KPlqmrKVGbC0V40
+Yh3UrqNGQ9zhKI9h9qfjfBQ9yXmCuk8dAEKm9m3UHYVvyJS6FD+seBCTcc84UbxA
+hKHsrUC3qhMuZtl0Sm3gvmOTGFVciLoODY7uH/YaKUm+0PUxzDs4wUkp8m4vHa+M
+gVPy2zKMm4Z3La1p44NCWOu/TM+kO+tvNB5xMh5TWuWzQg2tYzbxQ7KQrE3SjcMW
+UayRrmaVagT/S965omj+Vr9kQDO+pGlhjn/4dMA/fn6zv1+O4YcLL17bfvFQBz/N
+C3WL9cDkvVaO3jK/6KdN
+=RLnH
+-----END PGP SIGNATURE-----

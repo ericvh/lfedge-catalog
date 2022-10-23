@@ -1,0 +1,124 @@
+apiVersion: v1
+entries:
+  hello:
+  - annotations:
+      artifacthub.io/changes: |
+        - Fix template
+        - Add annotations
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/maintainers: |
+        - name: Eric Van Hensbergen
+          email: ericvh@gmail.com
+      artifacthub.io/prerelease: "false"
+      artifacthub.io/signKey: |
+        fingerprint: 9696F0D196A59098A4CAD15188FFD5FB4A5FFF98
+        url: https://keybase.io/ericvh/pgp_keys.asc
+    apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-23T09:36:03.679603-05:00"
+    description: LF Edge Hello World Example
+    digest: 7fd9695c027dc3c860bbf09ccfe415fa2451c202110afce0fdccb2fc4bf4dfbf
+    home: https://www.lfedge.org/
+    icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+    keywords:
+    - test
+    name: hello
+    sources:
+    - https://github.com/ericvh/lfedge-test
+    type: application
+    urls:
+    - https://ericvh.github.io/lfedge-catalog/charts/hello-0.1.3.tgz
+    version: 0.1.3
+  - annotations:
+      artifacthub.io/changes: |
+        - Fix template
+        - Add annotations
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/maintainers: |
+        - name: Eric Van Hensbergen
+          email: ericvh@gmail.com
+      artifacthub.io/prerelease: "false"
+    apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-23T09:36:03.679037-05:00"
+    description: LF Edge Hello World Example
+    digest: 01c9b4ed1690704d65cd1809ac7006b92c63dbfbba7766074504f26fc737db39
+    icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+    name: hello
+    type: application
+    urls:
+    - https://ericvh.github.io/lfedge-catalog/charts/hello-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-23T09:36:03.678122-05:00"
+    description: LF Edge Hello World Example
+    digest: 8080269be379d80a3c0bbcf7e2f70a2fff9a327c217bf252cf1370c86b4c2320
+    icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+    name: hello
+    type: application
+    urls:
+    - https://ericvh.github.io/lfedge-catalog/charts/hello-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-23T09:36:03.677675-05:00"
+    description: LF Edge Hello World Example
+    digest: 2006f4e3104c8f997f8f3380186bb7e06f9d716315984fe08b71523da4eadc1e
+    icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+    name: hello
+    type: application
+    urls:
+    - https://ericvh.github.io/lfedge-catalog/charts/hello-0.1.0.tgz
+    version: 0.1.0
+  parsec:
+  - apiVersion: v2
+    appVersion: v1.1.0
+    created: "2022-10-23T09:36:03.680069-05:00"
+    description: Platform AbstRaction for SECurity service
+    digest: ffa982e1dc80cdac10db8a9418c986cd98fdba6a1d282efa1cdbb4e530cb1c5c
+    home: http://parsec.community
+    icon: https://parsec.community/img/logos/parsec-stacked-color.svg
+    maintainers:
+    - name: Paul Howard
+    name: parsec
+    sources:
+    - https://github.com/parallaxsecond/parsec.git
+    type: application
+    urls:
+    - https://ericvh.github.io/lfedge-catalog/charts/parsec-0.1.0.tgz
+    version: 0.1.0
+  parsectool:
+  - apiVersion: v2
+    appVersion: v0.5.4
+    created: "2022-10-23T09:36:03.680505-05:00"
+    description: Platform AbstRaction for SECurity utility
+    digest: cb3b763b68846e3014b672238bc89335e9a83d68e38df8609b7f41807c32b9aa
+    home: http://parsec.community
+    icon: https://parsec.community/img/logos/parsec-stacked-color.svg
+    maintainers:
+    - name: Paul Howard
+    name: parsectool
+    sources:
+    - https://github.com/parallaxsecond/parsec-tool.git
+    type: application
+    urls:
+    - https://ericvh.github.io/lfedge-catalog/charts/parsectool-0.1.0.tgz
+    version: 0.1.0
+  wrapper:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-23T09:36:03.681094-05:00"
+    dependencies:
+    - name: hello
+      repository: https://erivan01.keybase.pub/charts
+      version: 0.1.3
+    description: A Wrapper Helm chart for Kubernetes
+    digest: 51647d645593725f605ad91727c74b7ff3510664f26af73d890bc0761480f3df
+    icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+    name: wrapper
+    type: application
+    urls:
+    - https://ericvh.github.io/lfedge-catalog/charts/wrapper-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-23T09:36:03.676728-05:00"

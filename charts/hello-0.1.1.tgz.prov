@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.16.0
+description: LF Edge Hello World Example
+icon: https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg
+name: hello
+type: application
+version: 0.1.1
+
+...
+files:
+  hello-0.1.1.tgz: sha256:8080269be379d80a3c0bbcf7e2f70a2fff9a327c217bf252cf1370c86b4c2320
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJjTK2ECRCI/9X7Sl//mAAAvAgQALA/W39wV2GZiUFr3E7Re2jL
+2KJxh+vbMctGZw+d41uFE5Vxw71PUOl9TUZlyso+i44UiY/XzhtWcxq6vXQh+SJr
+5bOdnkvbzp4hl/L7w1NeAY9l7JI3hasfkd5q3rIBLCp4Mqu70uBHxPINb/Dk/U8e
+tIKjfk5l4HRGQjft+PUFQfmAuGpVh0ktgWPUrc+yZSHrpROhfD0LpTDpdW21Uulb
+u9qdnaqn8Jq34iFkULXZfohLYURhMYqy8Pq61+TbvsKNGw6PyrbHfZpT+BzoFCoM
+nel6XthGXf/OgJisQTEEVDh6OSFNZG3Lci6xT/t2WKPl+OkZZIPdbk4LMfTUS7Q4
+5sJSsSCsGzvZta3+U1fq2uV8qIPWL8CiHrY+h8+qi5oL2SsbSIP1l7wi4dJtMvPn
+C+yNTglhsF+197/YvGNrmDN3qOORDBFZPlhq3rBT9gZZw4uY7hMVa50/rNvISg5w
+TVwkRYIJNLV/54e7syXxKitL6JVguB4Nah14wVPHW6dlUrXqCJbRSAKCnXtChCi5
+vyqwpg0Zn5+Z3EO6eL8Kh7oel1BCwq12vMPmNTyb2VgDm+v1caESLijPWHwogBwu
+LpZzWNYdoDDntL8qAb45Yi5L6DoF5rC8I6wM/lmu785E3CEMOyUFeSh3LibZVHIp
+EYJ09ZTuzxaZfm9/p39e
+=v3HX
+-----END PGP SIGNATURE-----

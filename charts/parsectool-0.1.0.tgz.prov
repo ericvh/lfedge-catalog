@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: v0.5.4
+description: Platform AbstRaction for SECurity utility
+home: http://parsec.community
+icon: https://parsec.community/img/logos/parsec-stacked-color.svg
+maintainers:
+- - name: Paul Howard
+name: parsectool
+sources:
+- - https://github.com/parallaxsecond/parsec-tool.git
+type: application
+version: 0.1.0
+
+...
+files:
+  parsectool-0.1.0.tgz: sha256:cb3b763b68846e3014b672238bc89335e9a83d68e38df8609b7f41807c32b9aa
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCgAQBQJjTVIACRCI/9X7Sl//mAAAjmEQAGSHIRzKYHCRh6aNGSjtx5cp
+T50/abjzt98HOMfzjwM9W9IYKL891jzvCfa7/PmmDCWLIris7xYEk73sEmuLKqfB
+l7QuKdNypXP413b6/zqZ6mVdLf7FKyFMU45XHkS2Ma8rWG/JDBQGZmRKDlJW9KEs
+7J21U3AoUCqR0FeH1CT5Uf8SHwaodldTRLINv2X0tRcM/0AOlmY4uFvT6DcE2VxO
+1jfNj9itmszoFuTdWjJk/kdPjJFOOgAur9rq+xcENg9PYyYmSDHqlFcRMJB+gYY/
+Yryj/jsGsE+vw6NVsbkjQQ2Bpex6FR6qPyHtBTlt8CzFORPx6n64LZmc3T2c/q3O
+K4+73MkFbP6YnS+Xow6nBmebUHy5jOcUcCm6lPy+hHO5LfiSGAkGxt69RUsOtVOE
+zu8e6fTejEvm3CvEWEzct49HfsiMvJVK/aAbtVo+qqUDDuzN73StjubS7m7Dts6F
+GfS0M9J+4pzTFQ7nK1S02hTd1DvTKVKwHMWI0wpXeuZ6woeH5oTuRqrG5aU2QCLD
+eB6jAmFRbzY2tbqwTWdp9EzpkkBUrB39u56FHYuHDcRy+V31quV+RNAvs4yHKQNg
+tAti2MgWdIYRbed37YQEzHb/zFJWz6wOavgyhsBSyOr9Dmo3Jb+xLdQspldK4Dvd
+oUNAYs4Cce2vx0uBO6DN
+=f0Qz
+-----END PGP SIGNATURE-----
